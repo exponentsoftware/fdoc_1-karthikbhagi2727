@@ -1,0 +1,19 @@
+{
+  "name": "fdoc_1-karthikbhagi2727",
+  "version": "1.0.0",
+  "description": "1.a. Write a function which count the number of occurrence of words in a paragraph or a sentence.The function `countWords` takes a paragraph and two words as parameters. It compare  which word is most frequently occurred in the paragraph.\r ```js\r const paragraph = 'I love teaching. If you do not love teaching what else can you love. I love JavaScript if you do not love something which can give life to your application what else can you love.';\r console.log(countWords(paragraph,'love', 'you'));\r The word love more frequently occurred than you.",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc_1-karthikbhagi2727.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc_1-karthikbhagi2727/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc_1-karthikbhagi2727#readme"
+}
